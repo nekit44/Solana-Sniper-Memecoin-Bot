@@ -1,5 +1,5 @@
 # dev
-FROM node:14-alpine3.17 AS dev
+FROM node:19 AS dev
 RUN apk add git
 RUN apk add bash
 RUN apk add --no-cache tzdata

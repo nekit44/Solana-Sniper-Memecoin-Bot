@@ -1566,7 +1566,7 @@
     "algosdk" "^1.13.1"
     "arweave" "^1.11.4"
     "arweave-stream-tx" "^1.1.0"
-    "avsc" "https://github.com/Irys-xyz/avsc#csp-fixes"
+    "avsc" "git+https://github.com/Irys-xyz/avsc.git#csp-fixes"
     "axios" "^0.21.3"
     "base64url" "^3.0.1"
     "bs58" "^4.0.1"
@@ -1638,7 +1638,7 @@
   "resolved" "https://registry.npmjs.org/atomic-sleep/-/atomic-sleep-1.0.0.tgz"
   "version" "1.0.0"
 
-"avsc@https://github.com/Irys-xyz/avsc#csp-fixes":
+"avsc@git+https://github.com/Irys-xyz/avsc.git#csp-fixes":
   "resolved" "git+ssh://git@github.com/Irys-xyz/avsc.git#a730cc8018b79e114b6a3381bbb57760a24c6cef"
   "version" "5.4.7"
 
@@ -2734,6 +2734,11 @@
   "integrity" "sha512-wpYMUmFu5f00Sm0cj2pfivpmawLZ0NKdviQ4w9zJeR8JVtOpOxHmLaJuj0vxvGqMJQWyP/COUkF75/57OKyRag=="
   "resolved" "https://registry.npmjs.org/fast-stable-stringify/-/fast-stable-stringify-1.0.0.tgz"
   "version" "1.0.0"
+
+"fastestsmallesttextencoderdecoder@^1.0.22":
+  "integrity" "sha512-Pb8d48e+oIuY4MaM64Cd7OW1gt4nxCHs7/ddPPZ/Ic3sg8yVGM7O9wDvZ7us6ScaUupzM+pfBolwtYhN1IxBIw=="
+  "resolved" "https://registry.npmjs.org/fastestsmallesttextencoderdecoder/-/fastestsmallesttextencoderdecoder-1.0.22.tgz"
+  "version" "1.0.22"
 
 "fdir@^6.4.2":
   "integrity" "sha512-KnhMXsKSPZlAhp7+IjUkRZKPb4fUyccpDrdFXbi4QL1qkmFh9kVY09Yox+n4MaOb3lHZ1Tv829C3oaaXoMYPDQ=="
